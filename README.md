@@ -60,13 +60,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavankumar28052006&theme=algolia&row=1&column=6" />
-</p>
-
----
-
 ## 🧩 Coding Profiles
 - 🧠 LeetCode: https://leetcode.com/u/PavanOnLeet/ 
 - 💻 HackerRank: https://www.hackerrank.com/profile/s_pavankumar_cse  
