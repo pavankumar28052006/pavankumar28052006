@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+S.+Pavan+Kumar;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Intelligent+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=S.%20Pavan%20Kumar&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 B.Tech CSE @ SRM University AP | AI/ML • Backend • Systems</h3>
@@ -50,19 +50,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankumar28052006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar28052006&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar28052006&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pavankumar28052006&theme=algolia&row=1&column=6" />
 </p>
 
 ---
