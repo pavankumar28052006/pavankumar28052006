@@ -30,7 +30,6 @@ Passionate about building **intelligent systems**, autonomous agents, and scalab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumar28052006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195px" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar28052006&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="195px" alt="Streak Stats"/>
 </div>
 
